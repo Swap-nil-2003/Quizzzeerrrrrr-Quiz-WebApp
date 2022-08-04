@@ -8,7 +8,7 @@ Built a Quiz Web Application in which the user can take a GK quiz. You can open 
 * You can re-take the quiz any number of times.
 * After the end of each attempt your results will show up.
 
-# Technologies Used:
+# Technologies Used
 HTML5, CSS3, CSS Media Queries, Javascript, DOM.
 
 # Link to Quiz 
