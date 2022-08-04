@@ -9,7 +9,7 @@ Built a Quiz Web Application in which the user can take a GK quiz. You can open 
 * After the end of each attempt your results will show up.
 
 # Technologies Used:
-HTML5, CSS3, CSS Media Queries, Javascript, DOM.
+HTML5, CSS3, CSS Media Queries,Javascript, DOM.
 
-# Link to Quiz App
+# Link to Quiz 
 https://quizzzeerrrrrr-quiz-web-app.netlify.app
