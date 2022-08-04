@@ -7,3 +7,6 @@ Built a Quiz Web Application in which the user can take a GK quiz.
 * Alert! You cannot go back to a previous question if you skipped it.
 * You can re-take the quiz any number of times.
 * After the end of each attempt your results will show up.
+
+# Link to Quiz App
+https://quizzzeerrrrrr-quiz-web-app.netlify.app
