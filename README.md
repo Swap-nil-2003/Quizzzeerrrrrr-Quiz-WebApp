@@ -12,4 +12,4 @@ Built a Quiz Web Application in which the user can take a GK quiz. You can open 
 HTML5, CSS3, CSS Media Queries, Javascript, DOM.
 
 # Link to Quiz 
-https://quizzzeerrrrrr-quiz-web-app.netlify.app
+https://quizzzeerrrrrr-quiz-webapp.netlify.app/
