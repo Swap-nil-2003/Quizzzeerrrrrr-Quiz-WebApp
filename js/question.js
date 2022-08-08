@@ -209,5 +209,55 @@ const quiz=[
         q: "What does 'HTTP' stand for?",
         options: ['HyperText Transfer Protocol','HyperLink Text Protocol','HyperText Transfer Policy','HyperLink Transfer Protocol'],
         answer: 0
+    },
+    {
+        q: "Where will you find the Kindley Field Airport?",
+        options: ['Bermuda','Nigeria','USA','Barbados'],
+        answer: 0
+    },
+    {
+        q: "Napoleon experienced defeat at Waterloo in which year?",
+        options: ['1815','1816','1813','1818'],
+        answer: 0
+    },
+    {
+        q: "In which country can you find the most freshwater resources?",
+        options: ['Brazil','Argentina','Peru','Chille'],
+        answer: 0
+    },
+    {
+        q: "How many time zones are there in Russia?",
+        options: ['12','11','9','3','5'],
+        answer: 1
+    },
+    {
+        q: "Which country won the first ever soccer World Cup?",
+        options: ['Uruguay','Brazil','Argentina','Italy'],
+        answer: 0
+    },
+    {
+        q: "In which part of your body would you find the cruciate ligament?",
+        options: ['Elbow','Ankle','Knee','Wrist'],
+        answer: 2
+    },
+    {
+        q: "What is the National First Class Cricket Tournament played in Australia? ",
+        options: ['Sheffield Shield','Marsh Trophy','Marsh-Dennis Championship','Marsh Shield'],
+        answer: 0
+    },
+    {
+        q: "What is the name of the winged horse in Greek mythology?",
+        options: ['Pegasus','Apollo','Athena','Zeus'],
+        answer: 0
+    },
+    {
+        q: "What was Adele's debut album called?",
+        options: ['17','91','Nineteen','19'],
+        answer: 3
+    },
+    {
+        q: "When was Javascript first developed?",
+        options: ['1994','1995','1993','1996'],
+        answer: 1
     }
 ]
