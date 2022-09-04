@@ -1,5 +1,5 @@
 # Quizzzeerrrrrr-Quiz-WebApp
-Built a Quiz Web Application in which the user can take a GK quiz. You can open this quiz on mobile devices and desktop.
+Built a Quiz Web Application in which the user can take a GK quiz. The quiz can be viewed on mobile devices and desktop.
 
 # Features
 * There are a total of 15 questions.
